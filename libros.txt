@@ -1,0 +1,24 @@
+0,1984,George Orwell,1949,True,1
+1,El arte de la guerra,Sun Tzu,-500,True,1
+2,Blood of Elves,Andrzej Sapkowski,1994,True,1
+3,Hamlet,William Shakespeare,1603,True,1
+4,El gran Gatsby,F. Scott Fitzgerald,1925,True,1
+5,El libro de los cinco anillos,Miyamoto Musashi,1645,True,1
+6,Dokkodo,Miyamoto Musashi,1645,True,1
+7,Individualism and Economic Order,Friedrich A. Hayek,1948,True,1
+8,Robinson Crusoe,Daniel Defoe,1719,True,1
+9,Tarzán de los monos,Edgar Rice Burroughs,1912,True,1
+10,La Divina Comedia,Dante Alighieri,1320,True,1
+11,Las mil y una noches,Anónimo,1200,True,1
+12,El conde de Montecristo,Alexandre Dumas,1844,True,1
+13,Don Quijote de la Mancha,Miguel de Cervantes,1605,True,1
+14,Don Quijote de la Mancha,Miguel de Cervantes,1605,True,2
+15,Don Quijote de la Mancha,Miguel de Cervantes,1605,True,3
+16,20 000 leguas de viaje submarino,Jules Verne,1870,True,1
+17,Viaje al centro de la Tierra,Jules Verne,1864,True,1
+18,La vuelta al mundo en 80 días,Jules Verne,1872,True,1
+19,La isla misteriosa,Jules Verne,1874,True,1
+20,La isla del tesoro,Robert Louis Stevenson,1883,True,1
+21,Jason y los argonautas,Apolonio de Rodas,-300,True,1
+22,Metafísica,Aristóteles,-350,True,1
+23,La Odisea,Homero,-300,True,1
